@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shacharsl97.dellgit.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shacharsl97.dellgit.MyBundle
 
 class MyApplicationService {
 
